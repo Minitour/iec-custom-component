@@ -8,6 +8,6 @@
     "iot_class": "cloud_polling",
     "issue_tracker": "https://github.com/guykh/iec-custom-component/issues",
     "loggers": ["iec_api"],
-    "requirements": ["iec-api==0.5.14"],
+    "requirements": ["iec-api @ git+https://github.com/Minitour/py-iec-api.git@b70c137138c579064ed0a6a894948727bf7070d4"],
     "version": "0.0.1"
 }
